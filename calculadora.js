@@ -17,7 +17,7 @@ clear = document.getElementById("clear");
 punto = document.getElementById("punto");
 mod = document.getElementById("modulo");
 const mos1 = () => {
-  display.value += "1";
+  numero = display.value += "1";
 };
 
 const mos2 = () => {
